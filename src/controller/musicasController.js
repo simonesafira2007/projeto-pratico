@@ -17,8 +17,8 @@ const getAll = (req, res) => {
 }
 
     // passo-a-passo
-    // Criar método getById
-    // Retornar o item daquele Id
+    // 1. Criar método getById
+    // 2. Retornar o item daquele Id
    
 const getById = (req, res) => {
     const id = req.params.id
