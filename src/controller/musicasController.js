@@ -27,8 +27,8 @@ const getById = (req, res) => {
     res.status(200).send(musicaFiltrada);
 }
     // passo-a-passo
-    // 1. Criar método getAllArtists
-    // 2. Filtrar lista de músicas por artistas - descomentado
+    // 1. Criar método getByArtists
+    // 2. Filtrar lista de músicas por artistas 
 
    
     const getByArtist = (req, res) => {
@@ -37,7 +37,7 @@ const getById = (req, res) => {
         res.status(200).send(artistaFiltrado);
     }
     // passo-a-passo
-    // 1.Criar método getAllArtists
+    // 1. Criar método getAllArtists
     // 2. Retornar somente o nome dos artistas da lista de músicas
     // 3. Pega somente os artistas da lista de músicas
 
