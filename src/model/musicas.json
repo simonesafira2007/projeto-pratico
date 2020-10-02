@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Pesadão",
+        "artista": "Iza",
+        "duracao": "03:20",
+        "album": "Dona de mim"
+    },
+    {  
+        "id": 2,
+        "titulo": "Quando a bad bater",
+        "artista": "Luan Santana",
+        "duracao": "02:59",
+        "album": ["Viva", "Tô de Cara", "O Nosso Tempo É Hoje", "Te Esperando"]
+    },
+    {
+        "id": 3,
+        "titulo": "É uma partida de futebol",
+        "artista": "Skank",
+        "duracao": "04:30",
+        "album": ["O Samba Poconé", "Calango", "Maquinarama"]
+    },
+    {
+        "id": 4,
+        "titulo": "Na Batida",
+        "artista": "Anitta",
+        "duracao": "03:27",
+        "album": ["Meu lugar", "Kisses"]  
+    }
+       
+    
+]

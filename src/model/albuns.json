@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "artista": "Luan Santana",
+        "titulo": "Viva",
+        "musicas":  [
+                    "Choque Térmico", 
+                    "Quando a bad chegar", 
+                    "Mendigando Amor", 
+                    "Acordando o Prédio"
+                    ]
+    },
+    {
+        "id": 2,
+        "artista": "Skank",
+        "titulo": "O samba Pocone",
+        "musicas":  [   
+                     "É uma partida de futebol", 
+                     "Eu Disse a Ela" , 
+                     "Garota Nacional", 
+                     "Tão Seu"
+                    ]   
+    },
+    {
+        "id": 3,
+        "artista":"Zeca Pagodinho",
+        "titulo": "Me leva",
+        "musicas":  [
+                    "Deixa a vida me levar", 
+                    "Caviar"
+                    ]   
+    },
+    {
+        "id": 5,
+        "artista":"Djavan",
+        "titulo": "Seduzir", 
+        "musicas":  [
+                    "Faltando um Pedaço",
+                    "Luanda", 
+                    "Jogral"
+                    ]   
+    }
+]
